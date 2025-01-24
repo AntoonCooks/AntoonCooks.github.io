@@ -4,9 +4,8 @@
   <h1 align="center" style="padding: 10px; color: black;">This is me!</h1>
 </div>
 
-
 <img scr="https://github.com/user-attachments/assets/4f1fa333-b2e6-4e73-8974-c68a8a40360d" height="20">
-![IMG_0229](https://github.com/user-attachments/assets/4f1fa333-b2e6-4e73-8974-c68a8a40360d)
+
 
   <h1 align="center" style=padding: 10px; color: black;">I Love To Cook!</h1> 
   <div style="image: url('IMG_0631'); image-size: cover; height: 10px;">
