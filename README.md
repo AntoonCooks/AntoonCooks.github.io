@@ -1,6 +1,6 @@
 # AntoonCooks.github.io
  <h1 align="center" style=padding: 10px; color: black;"> Welcome to my github profile!</h1> 
-<div style="image: url('IMG_0229'); image-size:100px; height: 5px;">
+<div style="image: url('IMG_0229'); image-size:50px; height: 5px;">
   <h1 align="center" style="padding: 10px; color: black;">This is me!</h1>
 </div>
 
