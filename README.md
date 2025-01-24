@@ -4,7 +4,7 @@
   <h1 align="center" style="padding: 10px; color: black;">This is me!</h1>
 </div>
 
-<div style="width:50%; height=50%">
+<div style="width:50%; height:=50%">
  ![IMG_0229](https://github.com/user-attachments/assets/a82ae727-11af-4a3e-bc4d-756ec76e8d64)
 
 </div>
