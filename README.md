@@ -5,7 +5,7 @@
 </div>
 
 
-![IMG_0229](https://github.com/user-attachments/assets/759e94e1-0918-4c64-a760-143686ab1809 | width=100)
+< img src"[IMG_0229](https://github.com/user-attachments/assets/759e94e1-0918-4c64-a760-143686ab1809)" width="48">
 
 
   <h1 align="center" style=padding: 10px; color: black;">I Love To Cook!</h1> 
