@@ -4,7 +4,7 @@
   <h1 align="center" style="padding: 10px; color: black;">This is me!</h1>
 </div>
 
-<img scr="https://github.com/user-attachments/assets/4f1fa333-b2e6-4e73-8974-c68a8a40360d" height="20">
+<img scr="https://github.com/user-attachments/assets/4f1fa333-b2e6-4e73-8974-c68a8a40360d" height="20"/>
 
 
   <h1 align="center" style=padding: 10px; color: black;">I Love To Cook!</h1> 
