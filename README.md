@@ -1,4 +1,5 @@
 # AntoonCooks.github.io
+ <h1 align="center" style=padding: 10px; color: black;">This is me!</h1> 
 <div style="image: url('IMG_0229'); image-size: cover; height: 30px;">
   <h1 align="center" style="padding: 10px; color: black;">Welcome to My GitHub Profile!</h1>
 </div>
